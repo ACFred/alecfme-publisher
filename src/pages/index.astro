@@ -1,0 +1,15 @@
+---
+import { getCollection } from 'astro:content';
+import Article from '../layouts/Article.astro';
+
+const allArticles = await getCollection('articles', ({ data }) => import.meta.env.PROD ? data.published : true);
+const articles = allArticles.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+---
+<Article title="alecf.me">
+  <h1>alecf.me</h1>
+  <ul>
+    {articles.map((a) => (
+      <li><a href={`/articles/${a.data.slug}/`}>{a.data.title}</a> — {a.data.category}</li>
+    ))}
+  </ul>
+</Article>
