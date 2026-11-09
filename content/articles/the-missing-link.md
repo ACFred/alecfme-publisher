@@ -7,7 +7,7 @@ tags:
 date: '2026-11-09'
 published: true
 layoutVariant: classic-serif
-description: The Missing Link, Anthropology, Africa
+description: The Missing Link Anthropology Africa
 ---
 
 Here is the missing link body.
