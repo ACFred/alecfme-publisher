@@ -2,7 +2,7 @@ import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
 
 const articles = defineCollection({
-  loader: glob({ pattern: '*.md', base: './src/content/articles' }),
+  loader: glob({ pattern: '*.md', base: './content/articles' }),
   schema: z.object({
     title: z.string().min(1),
     slug: z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/, 'lowercase letters, digits, hyphens only'),
