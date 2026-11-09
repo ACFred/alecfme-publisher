@@ -5,9 +5,9 @@ category: philosophy
 tags:
 - dig anthropology
 date: '2026-11-09'
-published: true
+published: false
 layoutVariant: classic-serif
 description: The Missing Link Anthropology Africa
 ---
 
-Here is the missing link body.
+Here is the missing link body. Some more text.
