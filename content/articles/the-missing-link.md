@@ -3,8 +3,7 @@ title: The Missing Link
 slug: the-missing-link
 category: philosophy
 tags:
-- dig
-- anthropology
+- dig anthropology
 date: '2026-11-09'
 published: true
 layoutVariant: classic-serif
