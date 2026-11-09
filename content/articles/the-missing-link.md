@@ -6,7 +6,7 @@ tags:
 - dig
 - anthropology
 date: '2026-11-09'
-published: false
+published: true
 layoutVariant: classic-serif
 description: The Missing Link, Anthropology, Africa
 ---
