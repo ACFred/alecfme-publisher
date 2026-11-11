@@ -6,7 +6,7 @@ tags:
 - debug
 - testin
 date: '2026-11-11'
-published: false
+published: true
 layoutVariant: classic-serif
 description: Publish testing
 ---
