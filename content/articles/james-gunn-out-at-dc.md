@@ -7,7 +7,7 @@ tags:
 - movies
 - entertainments
 date: '2026-11-11'
-published: false
+published: true
 layoutVariant: classic-serif
 description: movie news.
 ---
