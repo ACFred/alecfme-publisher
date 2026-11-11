@@ -1,7 +1,7 @@
 ---
 title: James Gunn Out At DC
 slug: james-gunn-out-at-dc
-category: movie-news
+category: gardening
 tags:
 - comics
 - movies
