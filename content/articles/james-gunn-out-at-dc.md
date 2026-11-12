@@ -12,4 +12,6 @@ layoutVariant: classic-serif
 description: movie news.
 ---
 
-James Gunn was launched out of a canon toward Barham Blvd.
+**James Gunn** 
+
+was launched out of a *canon* toward ***Barham Blvd.***
