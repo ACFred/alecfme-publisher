@@ -5,7 +5,7 @@ category: essays
 tags:
 - test
 date: '2026-11-08'
-published: false
+published: true
 layoutVariant: classic-serif
 description: A first smoke-test article verifying the frontmatter contract flows end
   to end.
