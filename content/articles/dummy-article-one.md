@@ -13,4 +13,4 @@ description: A first smoke-test article verifying the frontmatter contract flows
 
 **This is the article body. It exists to prove that a Markdown file with YAML**\
 frontmatter **becomes a rendered HTML page with correct title, canonical URL,\
-and metadata — nothing more.**
+and metadata — nothing more.** Bazooka
