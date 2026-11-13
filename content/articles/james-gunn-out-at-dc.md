@@ -12,6 +12,6 @@ layoutVariant: classic-serif
 description: movie news.
 ---
 
-**James Gunn** 
+**James Gunn-Gunn**
 
 was launched out of a *canon* toward ***Barham Blvd.***
