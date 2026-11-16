@@ -15,3 +15,5 @@ description: movie news.
 **James Gunn-Gunn-Poop**
 
 was launched out of a *canon* toward ***Barham Blvd.***
+
+***Some new text to test badges.***
